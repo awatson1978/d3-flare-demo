@@ -1,0 +1,34 @@
+<head>
+  <title>Powers of Ten</title>
+</head>
+
+<body>
+    {{> app_container }}
+</body>
+
+<template name="app_container">
+    {{> headerBarTemplate }}
+    {{> footerBarTemplate }}
+    {{> graphsPageTemplate}}
+</template>
+
+<template name="headerBarTemplate">
+    <div id="headerBar" data-role="header" data-theme="none">
+        <ul class="nav-bar header-nav-bar">
+            <li><a id="homePageLink" href="#guestPage" onclick="showHomePage();">powersoften.herokuapp.com</a></li>
+            <li><a id="breadCrumbLink" href="#"></a></li>
+        </ul>
+    </div>
+</template>
+<template name="footerBarTemplate">
+    <div id="footerActionBar" data-role="footer" data-theme="none" class="nav-bar bottom-anchor">
+        <ul class="nav-bar footer-nav-bar ">
+            <li><a href="#" onclick='Session.set("selected_graph","sunburst");'><span class="pictographs">4  </span>Sunburst</a></li>
+            <li><a href="#" onclick='Session.set("selected_graph","forceDirectGraph");'><span class="pictographs">4  </span>Force-Link Graph</a></li>
+            <li><a href="#" onclick='Session.set("selected_graph","collapsibleTreeChart");'><span class="pictographs">4  </span>ICD-10 Browser</a></li>
+            <li><a href="#" onclick='Session.set("selected_graph","powersOfTenChart");'><span class="pictographs">4  </span>SNOMED Browser</a></li>
+            <li><a href="#" onclick='Session.set("selected_graph","objectChildrenChart");'><span class="pictographs">4  </span>Project Structure (Parentalisms)</a></li>
+            <li><a href="#" onclick='Session.set("selected_graph","flareChart");'><span class="pictographs">4  </span>File Versioning (Descendents)</a></li>
+        </ul>
+    </div>
+</template>

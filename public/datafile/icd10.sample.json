@@ -1,0 +1,126 @@
+{
+    "version":  "0",
+    "title":    "ICD-10-CM (Letter A)",
+    "children": [
+        {
+            "title": "Aarskog's syndrome",
+            "image": "/images/anchors.thumbnails/AxillaryGlands.png",
+            "code":     "Q87.1"
+        },
+        {
+            "title": "Abandonment",
+            "image": "/images/anchors.thumbnails/AtlasJoint.png",
+            "see": "Maltreatment"
+        },
+        {
+            "title": "Abasia(-astasia) (hysterical)",
+            "image": "/images/anchors.thumbnails/BackMuscles.png",
+            "code":     "F44.4"
+        },
+        {
+            "title": "Abdomen, abdominal",
+            "image": "/images/anchors.thumbnails/BladderLymphatics.png",
+            "seeAlso": "condition",
+            "children": [
+                {"title": "acute", "code": "R10.0"},
+                {"title": "angina", "code": "K55.1"},
+                {"title": "muscle deficiency syndrome", "code": "Q79.4"}
+            ]
+        },
+        {
+            "title": "Abdominalgia",
+            "image": "/images/anchors.thumbnails/BrainAxial.png",
+            "see": "Pain, abdominal"
+        },
+        {
+            "title": "Aberrant (congenital)",
+            "image": "/images/anchors.thumbnails/BrainSagittal.png",
+            "seeAlso": "Malposition, congential",
+            "children": [
+                {"title": "adrenal gland", "code": "Q89.1"},
+                {
+                    "title": "artery (peripheral)",
+                    "image": "/images/anchors.thumbnails/BrainSulci.png",
+                    "code": "Q27.8",
+                    "children":[
+                        {"title": "basilar NEC",
+                            "image": "/images/anchors.thumbnails/Cecum.png",
+                            "code": "Q28.1"},
+                        {"title": "cerebral",
+                            "image": "/images/anchors.thumbnails/CerebroCortex.png",
+                            "code": "Q28.3"},
+                        {"title": "coronary",
+                            "image": "/images/anchors.thumbnails/CircleOfWillis.png",
+                            "code": "Q24.5"},
+                        {"title": "digestive system",
+                            "image": "/images/anchors.thumbnails/CorotidArteries.png",
+                            "code": "Q27.8"},
+                        {"title": "eye",
+                            "image": "/images/anchors.thumbnails/CorpusCallosum.png",
+                            "code": "Q15.8"},
+                        {"title": "lower limb",
+                            "image": "/images/anchors.thumbnails/DuraMater.png",
+                            "code": "Q27.8"},
+                        {"title": "precerebral",
+                            "image": "/images/anchors.thumbnails/ForeArm.png",
+                            "code": "Q28.1"},
+                        {"title": "pulmonary",
+                            "image": "/images/anchors.thumbnails/HeartAndLungs.png",
+                            "code": "Q25.79"},
+                        {"title": "renal",
+                            "image": "/images/anchors.thumbnails/HipJoint.png",
+                            "code": "Q27.2"}
+                    ]
+                },
+                {"title": "breast",
+                    "image": "/images/anchors.thumbnails/Kidneys.png",
+                    "code": "Q83.8"},
+                {"title": "endocrine gland NEC",
+                    "image": "/images/anchors.thumbnails/Liver.png",
+                    "code": "Q89.2"},
+                {"title": "hepatic duct",
+                    "image": "/images/anchors.thumbnails/Lungs.png",
+                    "code": "Q45.3"},
+                {"title": "pancreas",
+                    "image": "/images/anchors.thumbnails/MedulaOblongota.png",
+                    "code": "R94.8"},
+                {"title": "parathyroid gland",
+                    "image": "/images/anchors.thumbnails/OpticChiasma.png",
+                    "code": "Q89.2"}
+            ]
+        },
+        {
+            "title": "Aberration",
+            "image": "/images/anchors.thumbnails/OpticSystem.png",
+            "children": [
+                {"title": "distantial",
+                    "image": "/images/anchors.thumbnails/Pelvis.png",
+                    "see": "Disturbance, visual"},
+                {"title": "mental",
+                    "image": "/images/anchors.thumbnails/Skull.png",
+                    "code": "F99"}
+            ]
+        },
+        {
+            "title": "Ablepharia, ablepharon",
+            "image": "/images/anchors.thumbnails/Stomach.png",
+            "code":  "Q10.3"
+        },
+        {
+            "title": "Abnormal, abnormality, abnormalities",
+            "image": "/images/anchors.thumbnails/Teeth.png",
+            "seeAlso": "Anomaly",
+            "children": [
+                {"title": "acid-base balance (mixed)",
+                    "image": "/images/anchors.thumbnails/TemperomandibularNerves.png",
+                    "code": "E87.4"},
+                {"title": "albumin",
+                    "image": "/images/anchors.thumbnails/TorsoNerves.png",
+                    "code": "R77.0"},
+                {"title": "alphafetoprotein",
+                    "image": "/images/anchors.thumbnails/VastusLateralis.png",
+                    "code": "R77.2"}
+            ]
+        }
+    ]
+}
