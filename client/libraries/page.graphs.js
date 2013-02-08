@@ -35,10 +35,7 @@ Template.graphsPageTemplate.rendered = function () {
 };
 
 function clearGraphs(){
-    $('#chart').html('');
     $('#forceDirectGraph').html('');
     $('#sunburstChart').html('');
     $('#collapsibleTreeChart').html('');
-    $('#objectChildrenChart').html('');
-    $('#powersOfTenChart').html('');
 };

@@ -5,6 +5,7 @@ function renderForceDirectCollapsible(){
         node,
         link,
         root;
+    var color = d3.scale.category20c();
 
     var force = d3.layout.force()
         .on("tick", tick)
@@ -55,7 +56,8 @@ function renderForceDirectCollapsible(){
         // Update the nodes…
         node = vis.selectAll("circle.node")
             .data(nodes, function(d) { return d.id; })
-            .style("fill", color);
+            .style("fill", function(d) { return color(d.size); });
+            //.style("fill", color);
 
         node.transition()
             .attr("r", function(d) { return d.children ? 4.5 : 10; });
@@ -66,7 +68,8 @@ function renderForceDirectCollapsible(){
             .attr("cx", function(d) { return d.x; })
             .attr("cy", function(d) { return d.y; })
             .attr("r", function(d) { return d.children ? 4.5 : 10; })
-            .style("fill", color)
+            //.style("fill", color)
+            .style("fill", function(d) { return color(d.size); })
             .on("click", click)
             .call(force.drag);
 

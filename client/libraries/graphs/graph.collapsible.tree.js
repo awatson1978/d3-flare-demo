@@ -10,6 +10,7 @@ function renderCollapsibleTreeChart(){
         h = window.innerHeight - 240,
         i = 0,
         root;
+    var color = d3.scale.category20c();
 
     var tree = d3.layout.tree()
         .size([h, w]);
@@ -69,15 +70,15 @@ function renderCollapsibleTreeChart(){
         // collapsed node color
         nodeEnter.append("svg:circle")
             .attr("r", 1e-6)
-            .style("fill", function(d) { return d._children ? "orange" : "lightsteelblue"; });
+            .style("fill", function(d) { return color(d.size); });
+            //.style("fill", function(d) { return d._children ? "orange" : "lightsteelblue"; });
 
-        nodeEnter.append("svg:image")
-            //.attr("class", "fizzle")
-            .attr("height", "32px")
-            .attr("width", "32px")
-            //.attr("xlink:href", "/images/grays.anatomy.thumbnails/abdominalArteries.png")
-            .attr("xlink:href", function(d){ return d.image; })
-            .style("fill", "lightsteelblue");
+//        nodeEnter.append("svg:image")
+//            //.attr("class", "fizzle")
+//            .attr("height", "32px")
+//            .attr("width", "32px")
+//            .attr("xlink:href", function(d){ return d.image; })
+//            .style("fill", "lightsteelblue");
 
         nodeEnter.append("svg:text")
             .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
@@ -94,18 +95,19 @@ function renderCollapsibleTreeChart(){
         // expanded node
         nodeUpdate.select("circle")
             .attr("r", 4.5)
-            .style("fill", function(d) { return d._children ? "orange" : "lightsteelblue"; });
+            .style("fill", function(d) { return color(d.size); });
+            //.style("fill", function(d) { return d._children ? "orange" : "lightsteelblue"; });
             //.style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
-        nodeUpdate.select("image")
-            //.style("fill-opacity", 1);
-            .attr("y", -16)
-            .attr("x", -16)
-            .attr("height", "32px")
-            .attr("width", "32px")
-            .attr("xlink:href", function(d){ return d.image; })
-            //.attr("xlink:href", "/images/grays.anatomy.thumbnails/abdominalArteries.png")
-            .style("stroke", function(d) { return d._children ? "orange" : "lightsteelblue"; });
+//        nodeUpdate.select("image")
+//            //.style("fill-opacity", 1);
+//            .attr("y", -16)
+//            .attr("x", -16)
+//            .attr("height", "32px")
+//            .attr("width", "32px")
+//            .attr("xlink:href", function(d){ return d.image; })
+//            //.attr("xlink:href", "/images/grays.anatomy.thumbnails/abdominalArteries.png")
+//            .style("stroke", function(d) { return d._children ? "orange" : "lightsteelblue"; });
 
         nodeUpdate.select("text")
             .attr("x", 16)

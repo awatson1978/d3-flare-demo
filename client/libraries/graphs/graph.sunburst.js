@@ -35,7 +35,7 @@ function renderSunburst(){
             .attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
             .attr("d", arc)
             .style("stroke", "#fff")
-            .style("fill", function(d) { return color((d.children ? d : d.parent).title); })
+            .style("fill", function(d) { return color(d.size); })
             .style("fill-rule", "evenodd")
             .each(stash);
 
