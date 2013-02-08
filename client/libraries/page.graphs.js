@@ -10,39 +10,24 @@ Template.graphsPageTemplate.rendered = function () {
         self.handle = Meteor.autorun(function(){
             switch(Session.get("selected_graph")){
                 case 'sunburst':
-                    $('#breadCrumbLink').html('Sunburst');
+                    $('#breadCrumbLink').html('Sunburst Chart');
                     clearGraphs();
                     renderSunburst();
                     break;
                 case 'forceDirectGraph':
-                    $('#breadCrumbLink').html('Force Directed Graph');
+                    $('#breadCrumbLink').html('Force Directed Graph Chart');
                     clearGraphs();
                     renderForceDirectCollapsible();
                     break;
-                case 'powersOfTenChart':
-                    $('#breadCrumbLink').html('Powers of Ten');
-                    clearGraphs();
-                    renderPowersOfTenChart();
-                    break;
                 case 'collapsibleTreeChart':
-                    $('#breadCrumbLink').html('ICD-10 Browser');
+                    $('#breadCrumbLink').html('Collapsible Tree Chart');
                     clearGraphs();
                     renderCollapsibleTreeChart();
                     break;
-                case 'objectChildrenChart':
-                    $('#breadCrumbLink').html('Object Children');
-                    clearGraphs();
-                    renderObjectChildrenChart();
-                    break;
-                case 'flareChart':
-                    $('#breadCrumbLink').html('Object Children');
-                    clearGraphs();
-                    renderFlareChart();
-                    break;
                 default:
-                    $('#breadCrumbLink').html('Object Children');
+                    $('#breadCrumbLink').html('Collapsible Tree Chart');
                     clearGraphs();
-                    renderObjectChildrenChart();
+                    renderCollapsibleTreeChart();
                     break;
             }
         });

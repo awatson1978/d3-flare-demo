@@ -5,9 +5,9 @@ var options = {
 };
 
 function renderCollapsibleTreeChart(){
-    var m = [20, 120, 20, 120],
-        w = 1280 - m[1] - m[3],
-        h = 800 - m[0] - m[2],
+    var m = [60, 120, 60, 120],
+        w = window.innerWidth - m[1] - m[3],
+        h = window.innerHeight - 240,
         i = 0,
         root;
 
@@ -24,7 +24,7 @@ function renderCollapsibleTreeChart(){
         .append("svg:g")
         .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
 
-    d3.json("datafile/icd10.sample.json", function(json) {
+    d3.json("datafile/flare.json", function(json) {
         root = json;
         root.x0 = h / 2;
         root.y0 = 0;
