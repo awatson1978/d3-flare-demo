@@ -2,351 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.flare.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/datafile/flare-imports.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/datafile/icd10.sample.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/datafile/logarithmic.tree.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/datafile/object.children.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/datafile/object.parents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/guiders_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/AtlasJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/AxillaryGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/BackMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/BladderLymphatics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainAxial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainSagittal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainSulci.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Cecum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/CerebroCortex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/CircleOfWillis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/CorotidArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/CorpusCallosum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/DuraMater.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/ForeArm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/HeartAndLungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/HipJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Kidneys.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Liver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Lungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/MedulaOblongota.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/OpticChiasma.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/OpticSystem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Pelvis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Skull.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Stomach.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/Teeth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/TemperomandibularNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/TorsoNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/VastusLateralis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/VertebralColumn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors.thumbnails/VertebralNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/AtlasJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/AxillaryGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/BackMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/BladderLymphatics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/BrainAxial.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/BrainSagittal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/BrainSulci.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Cecum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/CerebroCortex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/CircleOfWillis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/CorotidArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/CorpusCallosum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/DuraMater.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/ForeArm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/HeartAndLungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/HipJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Kidneys.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Liver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Lungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/MedulaOblongota.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/OpticChiasma.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/OpticSystem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Pelvis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Skull.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Stomach.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/Teeth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/TemperomandibularNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/TorsoNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/VastusLateralis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/VertebralColumn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/anchors/VertebralNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteresAndVeinsOfUterus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndVeinsOfNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndVeinsOfUpperExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndViensOfLowerExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfLowerExtremities1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfLowerExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheColon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheStomach.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfUpperExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/baseOfSkull.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/bloodcells.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/boneGrowth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/bridgeOfNose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/cardiac-system.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/cerabelloCortex1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/chestArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/circleOfWillis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/dental.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveSystemArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveTrack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/earCanalBones.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/extremetesCartilidge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/facialOpticArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/feet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femaleSexualOrgans.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femoralStressAngles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femoralVeinsAndArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/foramenMagnum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/fornix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/gastricEmbryology.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/generalGlandsOfExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/headNeckMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/heart1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/heart2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hipJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hypothalmus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/kidneys.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/knee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/larynx1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/larynx2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lateralFeet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/legMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/liver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lowerExtremityBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lymphNodesOfTheHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/maleSexualOrgans.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/mandible.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/mandibleLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/maxillaryFaceBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/medullaOblongata1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/medullaOblongata2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/musclesOfLowerLeg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/musclesOfTheHand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nasalFacialNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckVeinsAndArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveDiagram1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveDiagram2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheFaceAndMandible.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheGut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheLowerExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheLowerExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheNeck2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfThePelvis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheShoulder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheTorso.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheUpperExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/noseBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/opticRecess.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/opticSystem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/orbits.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/parotidGlandAndDucts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pelvicBone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pelvicGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pharynx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/prostate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/rectum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/rib.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribcage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribsLungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/scapulaeClavical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexualDevelopment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexualDevelopment2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skull.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skullPlates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/spinalNerves1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/spinalNerves2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sternum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/stomachAndSmallIntestines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tailbone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/testes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/thyroid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tongue2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/torsoMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/torsoOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tosoGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tounge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tympanicDevelopment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/upperArmMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/upperExtremityBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/veinsOfHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/veinsOfTheNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vertebrae.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vertebralVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vocalCords.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteresAndVeinsOfUterus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndVeinsOfNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndVeinsOfUpperExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndViensOfLowerExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfLowerExtremities1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfLowerExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheColon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheStomach.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfUpperExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/baseOfSkull.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/bloodcells.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/boneGrowth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/bridgeOfNose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/cardiac-system.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/cerabelloCortex1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/chestArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/circleOfWillis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/dental.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveSystemArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveTrack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/earCanalBones.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/extremetesCartilidge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/facialOpticArteriesAndVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/feet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femaleSexualOrgans.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femoralStressAngles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femoralVeinsAndArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/foramenMagnum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/fornix.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/gastricEmbryology.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/generalGlandsOfExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/headNeckMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/heart1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/heart2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hipJoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hypothalmus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/kidneys.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/knee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/larynx1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/larynx2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lateralFeet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/legMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/liver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lowerExtremityBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lymphNodesOfTheHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/maleSexualOrgans.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/mandible.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/mandibleLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/maxillaryFaceBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/medullaOblongata1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/medullaOblongata2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/musclesOfLowerLeg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/musclesOfTheHand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nasalFacialNerves.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckVeinsAndArteries.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveDiagram1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveDiagram2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheFaceAndMandible.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheGut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheLowerExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheLowerExtremities2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheNeck2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfThePelvis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheShoulder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheTorso.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheUpperExtremities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/noseBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/opticRecess.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/opticSystem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/orbits.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/parotidGlandAndDucts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pelvicBone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pelvicGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pharynx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/prostate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/rectum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/rib.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribLigiments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribcage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribsLungs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/scapulaeClavical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexualDevelopment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexualDevelopment2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skull.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skullPlates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/spinalNerves1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/spinalNerves2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sternum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/stomachAndSmallIntestines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tailbone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/testes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/thyroid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tongue2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/torsoMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/torsoOverview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tosoGlands.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tounge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tympanicDevelopment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/upperArmMuscles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/upperExtremityBones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/veinsOfHead.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/veinsOfTheNeck.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vertebrae.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vertebralVeins.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vocalCords.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/client/stylesheets/pictonic.less" afterPath="$PROJECT_DIR$/client/stylesheets/fonts.pictonic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/mobile/mobile.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/page.graphs.js" afterPath="$PROJECT_DIR$/client/libraries/page.graphs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/page.graphs.html" afterPath="$PROJECT_DIR$/client/templates/page.graphs.html" />
     </list>
     <ignored path="powers-of-ten.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -366,28 +23,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.32098764">
+            <state line="12" column="11" selection-start="230" selection-end="230" vertical-scroll-proportion="-7.68">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.graphs.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+      <file leaf-file-name="mobile.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/mobile/mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.graphs.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="8" selection-start="421" selection-end="421" vertical-scroll-proportion="-7.68">
+            <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="0.32098764">
               <folding />
             </state>
           </provider>
@@ -420,6 +68,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="page.graphs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="8" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.graphs.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -433,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/datafile/icd10.sample.json" />
         <option value="$PROJECT_DIR$/public/datafile/comps.children.json" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.flair.js" />
         <option value="$PROJECT_DIR$/public/datafile/powers.of.ten.json" />
@@ -449,12 +114,13 @@
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/client/mobile/mobile.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="252" />
-    <option name="y" value="560" />
+    <option name="x" value="25" />
+    <option name="y" value="556" />
     <option name="width" value="1507" />
     <option name="height" value="834" />
   </component>
@@ -595,65 +261,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graphs" />
+              <option name="myItemId" value="mobile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -667,8 +275,8 @@
     <property name="options.lastSelected" value="preferences.lookFeel" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/icons" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -720,13 +328,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="252" y="560" width="1507" height="834" extended-state="0" />
-    <editor active="false" />
+    <frame x="25" y="556" width="1507" height="834" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23045821" sideWeight="0.98929846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23045821" sideWeight="0.98929846" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -794,56 +402,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/hipaa.logging.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="62" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/libraries/navigation.links.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="392" selection-end="392" vertical-scroll-proportion="0.3273165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/stylesheets/page.graphs.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/datafile/flare.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="8" selection-start="421" selection-end="421" vertical-scroll-proportion="-7.68">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="27" selection-start="3358" selection-end="3358" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.09638554">
-          <folding />
-        </state>
+        <state line="4" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.09638554" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js">
@@ -853,9 +414,100 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../workqueues/client/todos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="16" selection-start="517" selection-end="517" vertical-scroll-proportion="0.6535552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../admin-utility/client/admin-utility.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.32098764">
+        <state line="12" column="11" selection-start="230" selection-end="230" vertical-scroll-proportion="-7.68">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-analytics/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data-browser/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../parties/client/parties.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="47" selection-end="119" vertical-scroll-proportion="0.050078247">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../parties/client/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="491" selection-end="491" vertical-scroll-proportion="-5.1574345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../parties/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.8950438">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../admin-utility-3/jqm-meteor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="391" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../admin-utility-3/jqm-meteor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6385542">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../second-opinion/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../second-opinion/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3760933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../workqueues/client/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.323615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/mobile/mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="0.32098764">
           <folding />
         </state>
       </provider>
