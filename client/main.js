@@ -25,6 +25,11 @@ Template.app_container.rendered = function () {
 Template.app_container.anchorImage = function () {
     return Session.get("anchor_image");
 };
+Template.app_container.events({
+    'body touchmove' : function(e, t) {
+        e.preventDefault();
+    }
+});
 
 
 

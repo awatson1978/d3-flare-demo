@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/mobile/mobile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.js" afterPath="$PROJECT_DIR$/client/main.js" />
     </list>
     <ignored path="powers-of-ten.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,11 +31,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mobile.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/mobile/mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="0.32098764">
+            <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="-8.32">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="39" selection-start="701" selection-end="701" vertical-scroll-proportion="0.33734939">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui.framework.controller.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///Archives/Aptana/HealthRecordLive/app/webroot/js/ui.framework.controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="3" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1350765446000" expanded="false" signature="13081:13131" placeholder="..." />
+                <marker date="1350765446000" expanded="false" signature="13420:13434" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/datafile/comps.children.json" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.flair.js" />
         <option value="$PROJECT_DIR$/public/datafile/powers.of.ten.json" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js" />
@@ -115,6 +134,7 @@
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" />
         <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/client/mobile/mobile.html" />
+        <option value="$PROJECT_DIR$/client/main.js" />
       </list>
     </option>
   </component>
@@ -244,24 +264,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="d3-flare-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mobile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -402,18 +404,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.09638554" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="29" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../workqueues/client/todos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="16" selection-start="517" selection-end="517" vertical-scroll-proportion="0.6535552">
@@ -507,7 +497,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/mobile/mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="0.32098764">
+        <state line="13" column="7" selection-start="891" selection-end="891" vertical-scroll-proportion="-8.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Archives/Aptana/HealthRecordLive/app/webroot/js/ui.framework.controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="3" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1350765446000" expanded="false" signature="13081:13131" placeholder="..." />
+            <marker date="1350765446000" expanded="false" signature="13420:13434" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="39" selection-start="701" selection-end="701" vertical-scroll-proportion="0.33734939">
           <folding />
         </state>
       </provider>
