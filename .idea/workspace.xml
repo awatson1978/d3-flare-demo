@@ -43,7 +43,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="19" selection-start="756" selection-end="756" vertical-scroll-proportion="0.40963855">
+            <state line="31" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.74698794">
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file leaf-file-name="ui.framework.controller.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file:///Archives/Aptana/HealthRecordLive/app/webroot/js/ui.framework.controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="3" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="478" selection-end="548" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1350765446000" expanded="false" signature="13081:13131" placeholder="..." />
                 <marker date="1350765446000" expanded="false" signature="13420:13434" placeholder="..." />
@@ -504,7 +504,7 @@
     </entry>
     <entry file="file:///Archives/Aptana/HealthRecordLive/app/webroot/js/ui.framework.controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="3" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="478" selection-end="548" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1350765446000" expanded="false" signature="13081:13131" placeholder="..." />
             <marker date="1350765446000" expanded="false" signature="13420:13434" placeholder="..." />
@@ -514,7 +514,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="19" selection-start="756" selection-end="756" vertical-scroll-proportion="0.40963855">
+        <state line="31" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.74698794">
           <folding />
         </state>
       </provider>

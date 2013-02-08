@@ -19,17 +19,17 @@ Template.app_container.loggedIn = function () {
 };
 Template.app_container.rendered = function () {
 // set default page views
+    jQuery(window).bind('touchmove', function(e){
+        e.preventDefault();
+    });
+
     hidePages();
     showCurrentSessionPage();
 };
 Template.app_container.anchorImage = function () {
     return Session.get("anchor_image");
 };
-Template.app_container.events({
-    'touchmove body' : function(e, t) {
-        e.preventDefault();
-    }
-});
+
 
 
 
