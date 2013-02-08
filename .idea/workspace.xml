@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.js" afterPath="$PROJECT_DIR$/client/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" />
     </list>
     <ignored path="powers-of-ten.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.74698794">
+            <state line="40" column="7" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="graph.sunburst.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="graph.sunburst.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="29" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
+            <state line="2" column="39" selection-start="101" selection-end="101" vertical-scroll-proportion="0.04819277">
               <folding />
             </state>
           </provider>
@@ -127,7 +127,6 @@
         <option value="$PROJECT_DIR$/public/datafile/object.children.json" />
         <option value="$PROJECT_DIR$/client/stylesheets/page.graphs.less" />
         <option value="$PROJECT_DIR$/client/templates/page.graphs.html" />
-        <option value="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" />
         <option value="$PROJECT_DIR$/public/datafile/flare.json" />
         <option value="$PROJECT_DIR$/client/libraries/page.graphs.js" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" />
@@ -135,6 +134,7 @@
         <option value="$PROJECT_DIR$/client/main.html" />
         <option value="$PROJECT_DIR$/client/mobile/mobile.html" />
         <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" />
       </list>
     </option>
   </component>
@@ -264,6 +264,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graphs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,13 +444,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../workqueues/client/todos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="517" selection-end="517" vertical-scroll-proportion="0.6535552">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../admin-utility/client/admin-utility.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -514,7 +547,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="792" selection-end="792" vertical-scroll-proportion="0.74698794">
+        <state line="40" column="7" selection-start="960" selection-end="960" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="39" selection-start="101" selection-end="101" vertical-scroll-proportion="0.04819277">
           <folding />
         </state>
       </provider>
