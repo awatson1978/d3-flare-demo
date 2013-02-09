@@ -65,6 +65,11 @@ function renderCollapsibleTreeChart(){
         var nodeEnter = node.enter().append("svg:g")
             .attr("class", "node")
             .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+            .on("mouseover", function(d) {
+                Session.set('data_inspection_title', d.name);
+                Session.set('data_inspection_size', d.size);
+                Session.set('data_inspection_color', color(d.size));
+            })
             .on("click", function(d) { toggle(d); update(d); });
 
         // collapsed node color

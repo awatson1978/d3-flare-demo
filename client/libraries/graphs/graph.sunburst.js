@@ -37,6 +37,11 @@ function renderSunburst(){
             .style("stroke", "#fff")
             .style("fill", function(d) { return color(d.size); })
             .style("fill-rule", "evenodd")
+            .on("mouseover", function(d) {
+                Session.set('data_inspection_title', d.name);
+                Session.set('data_inspection_size', d.size);
+                Session.set('data_inspection_color', color(d.size));
+            })
             .each(stash);
 
         log_event('d3 created paths from datum.', LogLevel.Drawing);

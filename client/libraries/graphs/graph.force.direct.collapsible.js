@@ -70,6 +70,11 @@ function renderForceDirectCollapsible(){
             .attr("r", function(d) { return d.children ? 4.5 : 10; })
             //.style("fill", color)
             .style("fill", function(d) { return color(d.size); })
+            .on("mouseover", function(d) {
+                Session.set('data_inspection_title', d.name);
+                Session.set('data_inspection_size', d.size);
+                Session.set('data_inspection_color', color(d.size));
+            })
             .on("click", click)
             .call(force.drag);
 
