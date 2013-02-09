@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/mobile/mobile.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/ActiveSync.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Archive_GZIP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Asterisque.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Attention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Attention2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Audio_MP3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/BioHazard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Broken.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/CT_Scan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Camera Green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Camera Orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Camera Purple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/CartonFermé.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Favoris.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Film.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Glass Folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Grass Folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/GrassyTerrarium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Image_BMP.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Image_GIF.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Image_JPG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Image_PNG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/InDesign File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Isis.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/MarmaladeCubes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_DOC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_HTML.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_HTML2.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_PDF.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_PPT.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Office_TXT.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/PNG File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Panel Setting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Photoshop File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Photoshop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Plant Tunnel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Quicktime.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/System-Binary-Blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/System-Binary-Red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/System-Binary.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/System_Source.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Systema_Source2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Video_AVI.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Video_MOVIE.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Video_MPEG.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Video_WMV.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Xray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Xray_Broken_Bone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Xray_Mamography.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/Xray_Tooth.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/bat File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/blue ray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/build.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/jpeg File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/paint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/pathing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/pictures.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/rad_e8_.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icons/stack 3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/bootstrap.icd10.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/google.analytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/google.analytics.tracker.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.collapsible.tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.force.direct.collapsible.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.sunburst.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/libraries/page.graphs.js" afterPath="$PROJECT_DIR$/client/libraries/page.graphs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.js" afterPath="$PROJECT_DIR$/client/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/stylesheets/page.graphs.less" afterPath="$PROJECT_DIR$/client/stylesheets/page.graphs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/stylesheets/syntax.custom.less" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/templates/page.graphs.html" afterPath="$PROJECT_DIR$/client/templates/page.graphs.html" />
     </list>
     <ignored path="powers-of-ten.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,13 +26,31 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="page.graphs.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="page.graphs.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="40" selection-start="971" selection-end="988" vertical-scroll-proportion="0.37037036">
+                <state line="10" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="-6.4">
                   <folding>
                     <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="google.analytics.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/client/libraries/helpers/google.analytics.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="google.analytics.tracker.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/client/libraries/helpers/google.analytics.tracker.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="0" selection-start="68" selection-end="134" vertical-scroll-proportion="0.069970846">
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -119,10 +68,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="page.graphs.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="page.graphs.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="34" column="0" selection-start="1776" selection-end="1776" vertical-scroll-proportion="0.6419019">
+                <state line="15" column="45" selection-start="552" selection-end="552" vertical-scroll-proportion="0.19019316">
                   <folding />
                 </state>
               </provider>
@@ -152,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js" />
         <option value="$PROJECT_DIR$/public/datafile/logarithmic.tree.json" />
         <option value="$PROJECT_DIR$/client/libraries/graphs/graph.object.children.js" />
         <option value="$PROJECT_DIR$/public/datafile/object.children.json" />
@@ -168,6 +116,7 @@
         <option value="$PROJECT_DIR$/client/stylesheets/page.graphs.less" />
         <option value="$PROJECT_DIR$/client/templates/page.graphs.html" />
         <option value="$PROJECT_DIR$/client/libraries/page.graphs.js" />
+        <option value="$PROJECT_DIR$/client/libraries/helpers/google.analytics.tracker.js" />
       </list>
     </option>
   </component>
@@ -372,6 +321,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="d3-flare-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="graphs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -391,6 +362,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/libraries/helpers" />
       <recent name="$PROJECT_DIR$/public/icons" />
       <recent name="$PROJECT_DIR$/.meteor/local/build/static/icons" />
     </key>
@@ -513,20 +485,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../second-opinion/client/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3760933">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../workqueues/client/todos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-6.323615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Archives/Aptana/HealthRecordLive/app/webroot/js/ui.framework.controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="3" selection-start="548" selection-end="548" vertical-scroll-proportion="0.41781875">
@@ -614,18 +572,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="552" selection-end="552" vertical-scroll-proportion="0.19019316">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="40" selection-start="971" selection-end="988" vertical-scroll-proportion="0.37037036">
+        <state line="10" column="29" selection-start="416" selection-end="416" vertical-scroll-proportion="-6.4">
           <folding>
             <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+    <entry file="file://$PROJECT_DIR$/client/libraries/helpers/google.analytics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1776" selection-end="1776" vertical-scroll-proportion="0.6419019">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/helpers/google.analytics.tracker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="68" selection-end="134" vertical-scroll-proportion="0.069970846">
           <folding />
         </state>
       </provider>
