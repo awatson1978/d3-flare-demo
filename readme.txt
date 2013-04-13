@@ -1,15 +1,28 @@
-METEOR DEPENDENCIES
-
-meteor remove insecure
-meteor add accounts-password
-meteor add accounts-ui
-meteor remove autopublish
-meteor add less
-meteor add stylus
+d3-flare-demo is a basic Meteor application which showcases D3 graphing functionality.
 
 
+//-------------------------------------------------------------------------------------
+// TODOS
 
-STYLE GUIDE
+- load flare.json into a record in a MongoDB collection on server first run
+- pull the record from the MongoDB collection at page load
+- display graphs using record from MongoDB collection
+- add record edit/update page
+
+
+//-------------------------------------------------------------------------------------
+// METEOR DEPENDENCIES
+
+insecure
+preserve-inputs
+less
+accounts-ui
+accounts-password
+backbone
+
+
+//-------------------------------------------------------------------------------------
+// STYLE GUIDE
 
 1.  File Names
 All filenames should be lower case, with whitespaces filled with dots.  Example:
@@ -36,40 +49,4 @@ All function names should be camelCase.
 5.  Give custom names to objects instead of accepting default object names.
 BAD:   menuItem3
 GOOD:  fileOpenMenuItem
-
-6.
-
-
-
-
-//------------------------------------------------------------------------------
-//  Stale Database Tags
-
-> avatarPath
-
-db.collection.update( { field: { $exists: true } }, {$unset: { field : 1 } }, false, true)
-
-//  'field' is your deprecated field and collection is the collection it was removed from.
-//  The false and true are at the end because you need to enable multi update so that the query updates all of the documents in the collection (not just the first match) and the general update command is of the form db.collection.update( criteria, objNew, upsert, multi ).
-
-
-//------------------------------------------------------------------------------
-//  Help Needed
-
-- Translate Zurb Foundation from .sass to .styl
-- Translate Zurb Foundation Icons .sass to .styl
-
-
-//------------------------------------------------------------------------------
-//  API Dependencies
-https://developers.filepicker.io/home/
-
-
-
-//------------------------------------------------------------------------------
-//  Mongo Shell Scripts
-How to drop a corrupt server-side database of a running Meteor app
-# meteor; meteor mongo;
-> show dbs; db use meteor; show collections; db.anatomy.drop(); exit
-
 
