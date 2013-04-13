@@ -23,6 +23,8 @@ backbone
 
 //-------------------------------------------------------------------------------------
 // STYLE GUIDE
+//
+// Here are a few conventions I've been using when building this app.
 
 1.  File Names
 All filenames should be lower case, with whitespaces filled with dots.  Example:
